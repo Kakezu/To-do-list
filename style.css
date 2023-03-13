@@ -1,0 +1,44 @@
+* {
+  margin: 0px;
+}
+
+body {
+  padding: 20px;
+  font-family: inter, sans-serif;
+}
+
+h1 {
+  font-weight: 700;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  background: linear-gradient(90.41deg, #711f8d 1.14%, #a818da 100%);
+  margin-bottom: 30px;
+  border-radius: 10px;
+}
+
+.inputlist {
+  display: grid;
+  grid-template-columns: 200px 200px;
+  grid-gap: 10px;
+  justify-content: center;
+}
+
+input {
+  border-radius: 5px;
+  border: 1px solid #d5d4d8;
+  text-indent: 5px;
+  padding: 10px;
+}
+button {
+  font-family: "Karla", sans-serif;
+  border-radius: 5px;
+  background: linear-gradient(90.41deg, #711f8d 1.14%, #a818da 100%);
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+li {
+  padding: 5px;
+}
