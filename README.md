@@ -1,0 +1,1 @@
+This is a simple To-do list made with pure Javascript, HTML and CSS. I felt HTML does not need commenting, since it is quite self-explanatory. CSS also is simple. Javascript is thoroughly explained in comments.
